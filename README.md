@@ -4,9 +4,8 @@
   <img width="650" height="450" src="https://user-images.githubusercontent.com/80695387/219979188-dc5ac9af-2ac7-4502-af13-ba2633ed743b.png">
 </p>
 
-# Índice 
+
 # *Fontes que utilizarei:*
-* [Título e Imagem de capa](#fontes)
 - Algoritmos em java, do Guilherme Silveira. O livro pode ser encontrado aqui: https://www.casadocodigo.com.br/products/livro-algoritmos-java
 - Estrutura de dados com java, 2Guarinos - A playlist pode ser encontrado aqui: https://www.youtube.com/playlist?list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2
 
