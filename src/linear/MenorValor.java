@@ -1,4 +1,4 @@
-package basico;
+package linear;
 
 public class MenorValor {
 
