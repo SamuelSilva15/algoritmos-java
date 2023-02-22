@@ -34,7 +34,7 @@
 
 `Logarítimicos:`
 - Busca binária: faz um busca rápida e eficaz, sempre divindo o vetor ao meio para ter uma melhor performance. É um algoritmo logarítmico e sua fórmula é: O(log n).
-- Merge Sort: algoritmo de ordenação de valores baseado em duas etapas: divisão e intercalação/união. Desemepenho mediano, e bom para ser utilizado com grandes vetores. O java utiliza-o como algoritmo de ordenação, como pode ser visto aqui no JavaDoc: https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html
+- Merge Sort: algoritmo de ordenação de valores baseado em duas etapas: divisão e intercalação/união. Desemepenho mediano, e bom para ser utilizado com grandes vetores. O java utiliza-o como algoritmo de ordenação em sua classe Collections, como pode ser visto aqui no JavaDoc: https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html
 - Quick Sort: um dos algoritmos mais rápidos - se não for o mais rápido. Ele também divide o vetor em vetores menores, mas utiliza um pivot para ordenar.
 
 </br> *Exemplo de gráfico logarítmico:*
