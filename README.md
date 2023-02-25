@@ -9,6 +9,8 @@
 - Algoritmos em java, do Guilherme Silveira. O livro pode ser encontrado aqui: https://www.casadocodigo.com.br/products/livro-algoritmos-java
 - Estrutura de dados com java, 2Guarinos - A playlist pode ser encontrada aqui: https://www.youtube.com/playlist?list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2
 
+# *O que é um algoritmo?*
+
  # *Principais algoritmos vistos:*
   `Lineares`
 - Menor valor: algoritmo simples feito para encontrar o menor valor dentro de um array de valores - se for invertido encontrará o maior. É um algoritmo linear e tem como fórmula O(n). 
