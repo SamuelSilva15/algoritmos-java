@@ -10,6 +10,7 @@
 - Estrutura de dados com java, 2Guarinos - A playlist pode ser encontrada aqui: https://www.youtube.com/playlist?list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2
 
 # *O que é um algoritmo?*
+- É uma sequência de passos que resolve algum problema ou alcança algum objetivo.
 
  # *Principais algoritmos vistos:*
   `Lineares`
